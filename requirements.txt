@@ -1,0 +1,5 @@
+pydantic>=2.5.0
+email-validator>=2.0.0
+streamlit>=1.30.0
+pytest>=8.0.0
+ruff>=0.1.0
